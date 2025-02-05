@@ -1,0 +1,25 @@
+name: Auto Create Repo
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  generate-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup GitHub CLI
+        run: |
+          sudo apt-get install -y gh
+          gh auth login --with-token <<< "${{ secrets.PERSONAL_ACCESS_TOKEN }}"
+
+      - name: Create Repository
+        run: |
+          ISSUE_TITLE="${{ github.event.issue.title }}"
+          REPO_NAME="projeto-$(date +%s)"
+          gh repo create $REPO_NAME --template="meu-template" --private
+          echo "Repo criado: https://github.com/seu-user/$REPO_NAME"
+          gh issue comment ${{ github.event.issue.number }} --body "Seu repositório foi criado: https://github.com/seu-user/$REPO_NAME"
