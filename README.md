@@ -44,9 +44,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="cs"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="docker"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"  />
   <img width="12" />
 </div>
 
