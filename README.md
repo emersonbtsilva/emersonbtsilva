@@ -48,6 +48,14 @@
   <img width="12" />
 </div>
 
+ ## Badges
+ <p float="left">
+  <a href="https://www.credly.com/badges/02d94054-42da-472f-bae8-c36c47d29087">
+ <img src="https://images.credly.com/images/6a6e8118-b9d1-4bef-9255-5142376d0a0c/image.png" width=80 height=75>
+ </a>
+ </p>
+
+
 ###
 
 <h3 align="left">Github Stats</h3>
