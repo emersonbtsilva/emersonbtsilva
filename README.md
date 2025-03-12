@@ -51,8 +51,14 @@
  ## Badges
  <p float="left">
   <a href="https://www.credly.com/badges/02d94054-42da-472f-bae8-c36c47d29087">
- <img src="https://images.credly.com/images/6a6e8118-b9d1-4bef-9255-5142376d0a0c/image.png" width=80 height=75>
+ <img src="https://images.credly.com/images/6a6e8118-b9d1-4bef-9255-5142376d0a0c/image.png" width=80 height=90>
  </a>
+<a href="https://www.credly.com/badges/8a769340-78a7-43ba-ae21-4bbcc4481859">
+  <img src="https://images.credly.com/size/340x340/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png" width=80 height=90>
+</a>
+<a href="https://www.credly.com/badges/ab199368-e1fd-440f-b550-0703de01b09e">
+  <img src="https://images.credly.com/images/c7c17474-15b2-4b42-9036-8f8aaaa7e117/image.png" width=80 height=90>
+</a>
  </p>
 
 
