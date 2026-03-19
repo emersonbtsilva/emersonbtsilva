@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Intern at @itau<br>- Computer Engineering Student at @fiap<br></p>
+<p align="left">- Software Engineer @itau<br>- Computer Engineering Student at @fiap<br></p>
 
 ###
 
